@@ -1,6 +1,7 @@
+
 # Hi, I'm Mehdi 👋
 
-Computer Science student at FH Erfurt | Java Backend Developer
+I'm a Computer Science student at FH Erfurt in my 4th semester, currently on my journey to become a Java backend developer. I'm passionate about building clean, well-structured applications and learning modern technologies like Spring Boot, JPA/Hibernate and CI/CD. Every day I'm improving my skills and working on real projects to gain practical experience.
 
 ## 🛠️ Tech Stack
 
