@@ -35,9 +35,5 @@ into a working system.
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-## 📌 Current Project
-
-**[FitnessTracker](https://github.com/mehdirahimi05/FitnessTracker)** — A full Java backend for tracking workouts, nutrition, body measurements and training plans. Built with Spring Boot 3.4, Spring Security + JWT, JPA/Hibernate, PostgreSQL, multi-module Maven structure, CI/CD via GitHub Actions, and code quality tracking with JaCoCo and SonarQube. Angular frontend in progress.
-
 ## 📫 Contact
 work.mrahimi@gmail.com
