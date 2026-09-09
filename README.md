@@ -1,6 +1,6 @@
 # Hi, I'm Mehdi 👋
 
-I'm a Computer Science student at FH Erfurt in my 4th semester, 
+I'm a Computer Science student at FH Erfurt, 
 focused on Java backend development. I build clean, well-structured 
 applications using modern technologies and best practices — not just 
 for university, but because I enjoy the process of turning an idea 
